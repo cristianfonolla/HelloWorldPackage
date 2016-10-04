@@ -6,7 +6,7 @@ namespace Cristianfonolla;
 
 class Hello{
 
-    public function hello()
+    public function say()
     {
         return 'Hello World!';
     }

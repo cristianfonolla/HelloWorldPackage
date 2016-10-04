@@ -8,4 +8,4 @@ use Cristianfonolla\Hello;
 
 $hello = new Hello();
 
-echo $hello->hello();
+echo $hello->say();
