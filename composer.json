@@ -1,0 +1,6 @@
+{
+    "name": "cristianfonolla/hello-world-package",
+    "description": "dummy hello world package",
+    "type": "library",
+    "require": {}
+}
